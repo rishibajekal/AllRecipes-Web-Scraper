@@ -122,8 +122,4 @@ public class AllRecipesScraper {
 			System.out.println(s);
 	}
 	
-	public static void main(String[] args)
-	{
-		recipeScraper("http://allrecipes.com/Recipe/Crispy-Fish-Fillets/Detail.aspx");
-	}
 }
